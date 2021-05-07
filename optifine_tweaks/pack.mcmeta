@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 6,
-    "description": ["",{"text":"Optifine ","color":"gold"},{"text":"enchancements for\n"},{"text":"Blurplefied ","color":"blue"},{"text":"Resource Pack!","color":"white"}]
+    "description": ["",{"text":"Optifine ","color":"gold"},{"text":"enchancements for\n"},{"text":"Blurplefied ","color":"#7289DA"},{"text":"Resource Pack!"}]
   }
 }
