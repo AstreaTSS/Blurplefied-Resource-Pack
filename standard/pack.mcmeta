@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 6,
-    "description": ["",{"text":"Minecraft, "},{"text":"Blurplefied","color":"#7289DA"},{"text":"!\nMade by "},{"text":"Sonic49","color":"#4378FC"},{"text":"."}]
+    "pack_format": 1,
+    "description": ["",{"text":"Minecraft, "},{"text":"Blurplefied","color":"blue"},{"text":"!\nMade by "},{"text":"Sonic49","color":"dark_blue"},{"text":"."}]
   }
 }

@@ -1,8 +1,8 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "block/vine",
-        "vine": "block/vine"
+        "particle": "blocks/vine",
+        "vine": "blocks/vine"
     },
     "elements": [
         {   "from": [ 0, 0, 15.2 ],

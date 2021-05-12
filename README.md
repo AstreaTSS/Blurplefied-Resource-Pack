@@ -1,4 +1,4 @@
-# Blurplefied Resource Pack
+# Blurplefied Resource Pack - 1.8(.9) Branch
 ### Planet Minecraft Page: [here!](https://www.planetminecraft.com/texture-pack/blurplefied-resource-pack/)
 
 Minecraft, but in Blurple!
