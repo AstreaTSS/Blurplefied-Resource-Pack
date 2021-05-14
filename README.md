@@ -1,7 +1,7 @@
 # Blurplefied Resource Pack
 ### Planet Minecraft Page: [here!](https://www.planetminecraft.com/texture-pack/blurplefied-resource-pack/)
 
-Minecraft, but in Blurple!
+Minecraft, but in (old) Blurple!
 
 Do you like the color blurple that Discord uses? Did you ever wanted to experience Minecraft in that color? Well, I got the perfect resource pack for you!
 
