@@ -1,0 +1,5 @@
+{
+  "format": "vanilla",
+  "source": "./foliage.png",
+  "blocks": [ "minecraft:vine", "minecraft:grass_block" ]
+}
